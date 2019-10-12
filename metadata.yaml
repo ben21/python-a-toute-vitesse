@@ -1,0 +1,12 @@
+---
+title: Python à toute vitesse
+subtitle: v0.4.3
+author: João Ventura
+language: fr
+
+# Variables for Latex
+documentclass: book
+classoption: oneside
+fontsize: 12pt
+toc: true
+---
