@@ -1,3 +1,4 @@
+
 # Les Classes
 
 En programmation orientée objet (POO), une classe est une structure qui permet de grouper ensemble un ensemble de propriétés (appelées attributs) et de fonctions (appelées méthodes) pour manipuler ces propriétés. Prenez la classe suivante qui définit une personne avec les propriétés "name" et "age" et la méthode "greet".

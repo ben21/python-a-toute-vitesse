@@ -112,3 +112,4 @@ L'astuce avec les fonctions récursives est qu'il doit y avoir un cas "de base" 
     \end{equation}
 
     Vérifiez vos résultats pour les premiers nombres de la suite: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
+    
