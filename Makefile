@@ -1,6 +1,6 @@
 chapters = \
-	chapters/introduction.md \
 	chapters/note-du-traducteur.md \
+	chapters/introduction.md \
 	chapters/installation.md \
 	chapters/basic-datatypes.md \
 	chapters/lists.md \
