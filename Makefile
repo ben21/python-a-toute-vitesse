@@ -1,5 +1,6 @@
 chapters = \
 	chapters/introduction.md \
+	chapters/note-du-traducteur.md \
 	chapters/installation.md \
 	chapters/basic-datatypes.md \
 	chapters/lists.md \
@@ -17,10 +18,10 @@ options = metadata.yaml --highlight-style tango
 all: epub pdf
 
 epub:
-	pandoc -o full-speed-python.epub $(options) $(chapters)
+	pandoc -o python-a-toute-vitesse.epub $(options) $(chapters)
 
 pdf:
-	pandoc -o full-speed-python.pdf -H tex/preamble.tex $(options) $(chapters)
+	pandoc -o python-a-toute-vitesse.pdf -H tex/preamble.tex $(options) $(chapters)
 
 clean:
 	rm *.epub *.pdf

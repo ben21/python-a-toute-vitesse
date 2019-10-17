@@ -11,3 +11,4 @@ Le code source de ce livre est disponible sur github (<https://github.com/joaove
 Bien à vous,
 
 João Ventura - Professeur Adjoint à l'Ecole supérieure de Technologie de Setúbal.
+
