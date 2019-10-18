@@ -4,6 +4,9 @@ subtitle: v0.4.3
 author: João Ventura
 lang: fr-FR
 
+# Translation
+thanks: Traduction en français de Benjamin Van Bever
+
 # Variables for Latex
 documentclass: book
 classoption: oneside
