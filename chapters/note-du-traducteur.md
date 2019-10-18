@@ -4,6 +4,6 @@ Ce livre est la traduction française de "Full Speed Python", un très court man
 
 Il est disponible en pdf et en epub
 
-Lien pdf: https://github.com/ben21/python-a-toute-vitesse/blob/master/full-speed-python.pdf
+Lien pdf: https://github.com/ben21/python-a-toute-vitesse/blob/master/python-a-toute-vitesse.pdf
 
 Benjamin Van Bever
