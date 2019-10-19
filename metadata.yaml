@@ -2,7 +2,10 @@
 title: Python à toute vitesse
 subtitle: v0.4.3
 author: João Ventura
-language: fr
+lang: fr-FR
+
+# Translation
+thanks: Traduction en français de Benjamin Van Bever
 
 # Variables for Latex
 documentclass: book
