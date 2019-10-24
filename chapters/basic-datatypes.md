@@ -84,7 +84,7 @@ En utilisant la documentation de Python sur les chaînes de caractères (<https:
 
     2.  Utilisez une fonction qui vous permet de remplacer toutes les occurrences de "a" par "x", et ensuite utilisez la même fonction pour remplacer seulement la première occurrence de "a" par "x".
 
-3.  En commençant par la chaîne "aaa bbb ccc", de quelles suites d'opérations avez-vous besoin pour arriver aux chaînes suivantes ? Vous pouvez utiliser la fonciton "replace".
+3.  En commençant par la chaîne "aaa bbb ccc", de quelles suites d'opérations avez-vous besoin pour arriver aux chaînes suivantes ? Vous pouvez utiliser la fonction "replace".
 
     1.  "AAA BBB CCC"
 
